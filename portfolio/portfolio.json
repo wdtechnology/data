@@ -1,34 +1,58 @@
 {
 	"painting": [
 		{
-			"image": "https://cdn.rawgit.com/wdtechnology/data/e502e7759f470190c1f60fe1a236aa8df53e5e14/portfolio/images/pasted-image-1494528646446.png",
+			"image": "https://cdn.rawgit.com/wdtechnology/data/50bf04e7102e2b938da28bf899b76599aec1b53c/portfolio/images/logo-semefeito-1.png",
 			"name": "Carwash",
 			"@type": "Painting"
 		},
 		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494528264937.png",
+			"image": "https://cdn.rawgit.com/wdtechnology/data/a6dc94e57fe5d3537895dd926844124d229ad184/portfolio/images/logo-semefeito-2.png",
 			"name": "Muck Mouth",
 			"@type": "Painting"
 		},
 		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494528646446.png",
+			"image": "https://cdn.rawgit.com/wdtechnology/data/962ec3be3e57587a9b238a0834ac2483e171bfbb/portfolio/images/logo-semefeito-3.png",
 			"name": "Fishwall",
 			"@type": "Painting"
 		},
 		{
-			"image": "http://data.mavo.io/portfolio/images/web-coffe-marilyn.jpg",
+			"image": "https://cdn.rawgit.com/wdtechnology/data/be34af2621e01b41aa49d80ae51ccabcfd5c0e4d/portfolio/images/logo-semefeito-4.png",
 			"name": "Web Coffe Marilyn",
 			"@type": "Painting"
 		},
 		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494903924970.png",
+			"image": "https://cdn.rawgit.com/wdtechnology/data/e62c6d2b9f9f468aad4d302e614c7adfa4a8b00c/portfolio/images/logo-semefeito-5.png",
 			"name": "Web 3 Jules",
 			"@type": "Painting"
 		},
 		{
-			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
-			"name": "Web electric3",
+			"image": "https://cdn.rawgit.com/wdtechnology/data/e40e766f8cc4da25557d9556aa820a839c893fa6/portfolio/images/logo-semefeito-7.png",
+			"name": "Logo semefeito 7",
 			"@type": "Painting"
+		},
+		{
+			"image": "https://cdn.rawgit.com/wdtechnology/data/43a8ec5c51fa3023c0d75d4039ee93206b854c01/portfolio/images/logo-semefeito-8.png",
+			"name": "Logo semefeito 8"
+		},
+		{
+			"image": "https://cdn.rawgit.com/wdtechnology/data/e373bcfd7813c64bc6e02db950b7beaf8263b97a/portfolio/images/logo-semefeito-9.png",
+			"name": "Logo semefeito 9"
+		},
+		{
+			"image": "https://cdn.rawgit.com/wdtechnology/data/6bd1de71b35b022e3b5fb4046f613e56a4facba4/portfolio/images/logo-semefeito-10.png",
+			"name": "Logo semefeito 10"
+		},
+		{
+			"image": "https://cdn.rawgit.com/wdtechnology/data/a00d143114b7ebc77271ebfcb710f71455d8ece3/portfolio/images/logo-semefeito-11.png",
+			"name": "Logo semefeito 11"
+		},
+		{
+			"image": "null",
+			"name": "Null"
+		},
+		{
+			"image": "null",
+			"name": "Null"
 		}
 	]
 }
